@@ -1,4 +1,4 @@
-name: Setup and Build
+namenamenamenamenamenamenamenamenamenamenamenamenamenamenamename: Setup and Build
 description: Generic setup action
 inputs:
   pnpm-version:
